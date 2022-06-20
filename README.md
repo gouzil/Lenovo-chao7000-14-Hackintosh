@@ -15,6 +15,9 @@
 
 ![](./images/system_info.png)
 
+##### 机子大概长这样
+<img src="https://2a.zol-img.com.cn/product/182/666/cePnZKG3rRtU.jpg" width="500" />
+
 ## 镜像下载
   
   - [[**黑果小兵的部落阁**] :【黑果小兵】原版镜像](https://blog.daliansky.net/categories/下载/镜像/)
